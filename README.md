@@ -219,9 +219,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -236,8 +233,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@stylemycrown.com or join our Discord community.
+For support, email rayaankhanpersonal@gmail.com or join our Discord community.
 
 ---
-
-**Made with ❤️ by the StyleMyCrown Team**
